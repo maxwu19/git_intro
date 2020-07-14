@@ -1,6 +1,4 @@
-Hello
-I
-am
-test
-file
-version 4.
+大家好
+我是
+新版本
+
